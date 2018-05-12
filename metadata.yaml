@@ -1,0 +1,48 @@
+_repo: Deathworld_28346
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Dongen, H. R. Van
+    - Dongen, van
+    - Van Dongen, Henry Richard
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Harry
+    aliases:
+    - Dempsey, Henry Maxwell
+    - Harrison, Henry Maxwell
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '25395'
+    url: http://www.gutenberg.org/2009/agents/25395
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
+description: Jason dinAlt is a professional gambler who uses his somewhat erratic
+  psionic abilities to tip the odds in his favor. He is challenged by a man named
+  Kerk Pyrrus to turn a large amount of money into an immense sum by gambling at a
+  government-run casino. He succeeds and survives the planetary government's desperate
+  efforts to steal back the money. He then decides to accompany Kerk to his home,
+  despite being warned that it is the deadliest world ever colonized by humans.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PS'
+title: Deathworld
+url: http://www.gutenberg.org/ebooks/28346
